@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub PagesReal
 
 on:
   workflow_dispatch:
