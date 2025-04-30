@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
         alignment: Alignment.topCenter,
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
-        child: Expanded(
+        child: FittedBox(
           child: ListView(
             shrinkWrap: true,
             children: [
